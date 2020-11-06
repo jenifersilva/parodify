@@ -4,7 +4,7 @@ Funcionalidade: Login
     Sendo um usuário previamente cadastrado
     Quero acessar o sistema com o meu email e senha
     Para que eu possa ter acesso às playlists do Parodify
-    @temp
+
     Cenário: Login do usuário
         Dado que acesso a página de login
         Quando submento minhas credenciais com: "fernando@bol.com.br" e "pwd123"
